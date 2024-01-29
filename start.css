@@ -1,0 +1,44 @@
+.width-60px {
+    width: 60px;
+    background-color: blue;
+}
+
+.or-text {
+    top: -11px;
+    top: -11px;
+    font-weight: 500;
+    color: darkgrey;
+}
+
+.field-selection-section {
+    top: 62px;
+    background-color: #ecf2f2;
+    width: 750px;
+}
+
+.field-selection-section .input-group {
+    width: fit-content;
+}
+
+#transfer-current-issueBTN {
+    margin-top: -6px;
+}
+
+.select-field-input {
+    height: 30px;
+    width: 256px;
+}
+
+#add-fields-btn {
+    height: 30px;
+    color: grey;
+}
+
+.selected-field {
+    background: #0080803d;
+    font-size: 12px;
+}
+
+.selected-field button {
+    font-size: 10px;
+}

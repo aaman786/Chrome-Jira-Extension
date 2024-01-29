@@ -1,0 +1,14 @@
+{
+  "name": "Scrapper",
+  "description": "Extension for getting data from web page",
+  "version": "1",
+  "manifest_version": 3,
+  "action": {
+    "default_popup": "start.html"
+  },
+  "permissions": [
+    "activeTab",
+    "scripting",
+    "tabs"
+  ]
+}
